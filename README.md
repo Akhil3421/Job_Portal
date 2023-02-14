@@ -6,7 +6,7 @@ the data base also provided in sql file
 To run this Apache and Mysql should run in xampp control pannel
 phpmyadmin should contain three tables named candidates,job,users in job
 
-This project include 1 webpage for user and 8 webpages for admin.
+This project include 1 webpage for user and webpages for admin.
 It consists of 
 Admin Dashboard:which is used for posting and manipulating jobs
 Candidates applied:which shows the candidates information
