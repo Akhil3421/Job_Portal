@@ -1,5 +1,5 @@
 # Job_Portal
-Using HTML,PHP,CSS
+Using HTML,PHP,CSS,JavaScript
 
 It uses the Xampp server for configuration 
 the data base also provided in sql file 
